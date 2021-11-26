@@ -1,33 +1,33 @@
-name: yaml-ex
+name: dev
 channels:
   - defaults
 dependencies:
-  - attrs=21.2.0=pyhd3eb1b0_0
-  - ca-certificates=2021.10.26=hecd8cb5_2
-  - certifi=2021.10.8=py39hecd8cb5_0
-  - iniconfig=1.1.1=pyhd3eb1b0_0
-  - libcxx=10.0.0=1
-  - libffi=3.3=hb1e8313_2
-  - more-itertools=8.10.0=pyhd3eb1b0_0
-  - ncurses=6.2=h0a44026_1
-  - openssl=1.1.1l=h9ed2024_0
-  - packaging=21.3=pyhd3eb1b0_0
-  - pip=21.2.4=py39hecd8cb5_0
-  - pluggy=0.13.1=py39hecd8cb5_0
-  - py=1.10.0=pyhd3eb1b0_0
-  - pyparsing=3.0.4=pyhd3eb1b0_0
-  - pytest=6.2.4=py39hecd8cb5_2
-  - python=3.9.6=h88f2d9e_0
-  - readline=8.1=h9ed2024_0
-  - setuptools=52.0.0=py39hecd8cb5_0
-  - sqlite=3.36.0=hce871da_0
-  - tk=8.6.10=hb0a8c7a_0
-  - toml=0.10.2=pyhd3eb1b0_0
-  - tzdata=2021a=h5d7bf9c_0
-  - wheel=0.37.0=pyhd3eb1b0_0
-  - xz=5.2.5=h1de35cc_0
-  - yaml=0.2.5=haf1e3a3_0
-  - zlib=1.2.11=h1de35cc_3
+  - attrs=21.2.0
+  - ca-certificates=2021.10.26
+  - certifi=2021.10.8
+  - iniconfig=1.1.1
+  - libcxx=10.0.0
+  - libffi=3.3
+  - more-itertools=8.10.0
+  - ncurses=6.2
+  - openssl=1.1.1l
+  - packaging=21.3
+  - pip=21.2.4
+  - pluggy=0.13.1
+  - py=1.10.0
+  - pyparsing=3.0.4
+  - pytest=6.2.4
+  - python=3.9.6
+  - readline=8.1
+  - setuptools=52.0.0
+  - sqlite=3.36.0
+  - tk=8.6.10
+  - toml=0.10.2
+  - tzdata=2021a
+  - wheel=0.37.0
+  - xz=5.2.5
+  - yaml=0.2.5
+  - zlib=1.2.11
   - pip:
     - hiyapyco==0.4.16
     - jinja2==2.11.3
