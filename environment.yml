@@ -32,4 +32,4 @@ dependencies:
     - jinja2==2.11.3
     - markupsafe==2.0.1
     - pyyaml==6.0
-    - libcxx=10.0.0
+    - libcxx==10.0.0
